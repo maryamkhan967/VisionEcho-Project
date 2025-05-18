@@ -1,6 +1,6 @@
-# VisionEcho: Image-to-Speech Converter for Visually Impaired Individuals 🖼️🔊
+# VisionEcho: Image-to-Speech Converter for Visually Impaired 
 
-## 🧠 Overview
+## Overview
 
 **VisionEcho** project is a smart system that helps blind and visually impaired people understand what is shown in an image. It does this in two main steps: first, it looks at a picture and creates a sentence describing what’s happening (like “a man is riding a bike on the street”). Then, it reads that sentence out loud using a voice tool. This means someone who can’t see the image can still know what’s in it just by listening.
 
