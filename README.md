@@ -1,4 +1,4 @@
-# VisionEcho: Image-to-Speech Converter for Visually Impaired 
+# VisionEcho: Image to Speech for the Blind 
 
 ## Overview
 
